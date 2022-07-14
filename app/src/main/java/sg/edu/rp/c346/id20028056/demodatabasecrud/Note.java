@@ -2,7 +2,7 @@ package sg.edu.rp.c346.id20028056.demodatabasecrud;
 import java.io.Serializable;
 
 public class Note implements Serializable {
-
+//testing
     private 	int id;
     private 	String noteContent;
 
